@@ -1,1 +1,1 @@
-# KN_lab
+this thing is for a laboratory work
